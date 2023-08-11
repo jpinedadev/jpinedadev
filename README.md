@@ -10,7 +10,8 @@
   jpinedadev@GitHub
   -----------------
   Name: jpinedadev
-  OS: Archcraft x86_64
+  OS: Arch Linux x86_64
+  DE: Xfce 4.18
   Languages: ["html", "css", "javascript", "python", "php", "sql"]
   Technologies: ["nodejs", "react", "bootstrap", "tailwind", "sass"]
   Tools: ["git", "figma", "photoshop", "ilustrator", "gimp", "inkscape"]
