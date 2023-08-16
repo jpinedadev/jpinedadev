@@ -26,6 +26,6 @@
     $   <a href="https://jpinedadev.github.io/portfolio/" target="_blank">Portfolio</a> .
     <a href="https://linkedin.com/in/jpinedadev" target="_blank">Linkedin</a> .
     <a href="https://twitter.com/Jpinedadev" target="_blank">twitter</a> .
-    <a href="https://www.hackerrank.com/jpinedadev" target="_blank">HackerRank</a> .$
+    <a href="https://www.hackerrank.com/jpinedadev" target="_blank">HackerRank</a> $
   </samp>
 </p>
