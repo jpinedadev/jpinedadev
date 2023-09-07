@@ -12,7 +12,7 @@
   Name: jpinedadev
   OS: Arch Linux x86_64
   DE: Xfce 4.18
-  Kernel: 6.4.11-arch2-10
+  Kernel: 6.4.12-arch1-1
   Languages: ["html", "css", "javascript", "python", "php", "sql"]
   Technologies: ["nodejs", "react", "bootstrap", "tailwind", "sass"]
   Tools: ["git", "figma", "photoshop", "ilustrator", "gimp", "inkscape"]
