@@ -2,7 +2,7 @@
 ┌[jpinedadev@git]-(~)
 └> mefetch
 ```
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpinedadev&label=Profile%20views&color=0e75b6&style=flat" alt="jpinedadev" /> </p>
+
 
 <div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" border="0" style="width:156px;">
   
@@ -29,4 +29,5 @@
     <a href="https://twitter.com/Jpinedadev" target="_blank">twitter</a> .
     <a href="https://www.hackerrank.com/jpinedadev" target="_blank">HackerRank</a> $
   </samp>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpinedadev&label=Profile%20views&color=0e75b6&style=flat" alt="jpinedadev" /> </p>
 </p>
