@@ -10,9 +10,9 @@
   jpinedadev@GitHub
   -----------------
   Name: jpinedadev
-  OS: Arch Linux x86_64
-  DE: Xfce 4.18
-  Kernel: 6.5.7-arch1-1
+  OS: Ubuntu 22.04.4 LTS x86_64 
+  DE: GNOME 42.9 
+  Kernel: 6.5.0-21-generic
   Languages: ["html", "css", "javascript", "python", "php", "sql"]
   Technologies: ["nodejs", "react", "bootstrap", "tailwind", "sass"]
   Tools: ["git", "figma", "photoshop", "ilustrator", "gimp", "inkscape"]
