@@ -4,7 +4,7 @@
 ```
 
 
-<div style="display:block;text-align:left"><img align="left" src="https://raw.githubusercontent.com/jpinedadev/jpinedadev/main/Ubuntu-Symbol.png" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="https://raw.githubusercontent.com/jpinedadev/jpinedadev/main/Ubuntu-Symbol.png" border="0" style="width:250px; height:auto;">
   
   ```css
   jpinedadev@GitHub
