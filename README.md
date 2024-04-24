@@ -4,15 +4,15 @@
 ```
 
 
-<div style="display:block;text-align:left"><img align="left" src="https://raw.githubusercontent.com/jpinedadev/jpinedadev/main/archlinux-logo1.png" border="0" style="width:auto; height:250px;">
+<div style="display:block;text-align:left"><img align="left" src="https://raw.githubusercontent.com/jpinedadev/jpinedadev/main/archlinux-logo1.png" border="0" style="width:auto; height:200px;">
   
   ```css
   jpinedadev@GitHub
   -----------------
   Name: jpinedadev
-  OS: Ubuntu 22.04.4 LTS x86_64 
-  DE: GNOME 42.9 
-  Kernel: 6.5.0-21-generic
+  OS: Arch Linux x86_64 
+  DE: Hyprland 
+  Kernel: 6.8.7-arch1-1
   Languages: ["html", "css", "javascript", "python", "php", "sql"]
   Technologies: ["nodejs", "react", "bootstrap", "tailwind", "sass"]
   Tools: ["git", "figma", "photoshop", "ilustrator", "gimp", "inkscape"]
