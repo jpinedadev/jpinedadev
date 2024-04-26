@@ -13,7 +13,7 @@
   OS: Arch Linux x86_64 
   DE: Hyprland 
   Kernel: 6.8.7-arch1-1
-  Languages: ["java, html", "css", "javascript", "python", "sql"]
+  Languages: ["java, "html", "css", "javascript", "python", "sql"]
   Technologies: ["nodejs", "react", "bootstrap", "tailwind", "sass"]
   Tools: ["git", "figma", "photoshop", "ilustrator", "gimp", "inkscape"]
   Intrests: ["Linux", "Anime", "indie videogames"]  
