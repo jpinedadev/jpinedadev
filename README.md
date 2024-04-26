@@ -13,10 +13,10 @@
   OS: Arch Linux x86_64 
   DE: Hyprland 
   Kernel: 6.8.7-arch1-1
-  Languages: ["html", "css", "javascript", "python", "php", "sql"]
+  Languages: ["java, html", "css", "javascript", "python", "sql"]
   Technologies: ["nodejs", "react", "bootstrap", "tailwind", "sass"]
   Tools: ["git", "figma", "photoshop", "ilustrator", "gimp", "inkscape"]
-  Intrests: ["Frontend", "Linux", "Anime", "indie videogames"]  
+  Intrests: ["Linux", "Anime", "indie videogames"]  
   Uptime: freelancer
   ```
 </div>
