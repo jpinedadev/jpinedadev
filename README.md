@@ -12,7 +12,7 @@
   Name: jpinedadev
   OS: Arch Linux x86_64 
   DE: Hyprland 
-  Kernel: 6.8.9-arch1-2
+  Kernel: 6.9.1-arch1-1
   Languages: ["java", "html", "css", "javascript", "python", "sql"]
   Technologies: ["nodejs", "react", "bootstrap", "tailwind", "sass"]
   Tools: ["git", "figma", "photoshop", "ilustrator", "gimp", "inkscape"]
