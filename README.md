@@ -10,9 +10,9 @@
   jpinedadev@GitHub
   -----------------
   Name: jpinedadev
-  OS: Arch Linux x86_64 
-  DE: Hyprland 
-  Kernel: 6.9.1-arch1-1
+  OS: Microsoft Windows 11
+  Version: 10.0.26100 
+  Compile: 26100
   Languages: ["java", "html", "css", "javascript", "python", "sql"]
   Technologies: ["nodejs", "react", "bootstrap", "tailwind", "sass"]
   Tools: ["git", "figma", "photoshop", "ilustrator", "gimp", "inkscape"]
