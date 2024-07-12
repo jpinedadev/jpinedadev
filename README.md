@@ -4,7 +4,7 @@
 ```
 
 
-<div style="display:block;text-align:left"><img align="left" src="[https://raw.githubusercontent.com/jpinedadev/jpinedadev/main/archlinux-logo3.png](https://raw.githubusercontent.com/jpinedadev/jpinedadev/main/windows-11-logo.png)" border="0" style="width:auto; height:200px;">
+<div style="display:block;text-align:left"><img align="left" src="https://raw.githubusercontent.com/jpinedadev/jpinedadev/main/windows-11-logo.png" border="0" style="width:auto; height:200px;">
   
   ```css
   jpinedadev@GitHub
